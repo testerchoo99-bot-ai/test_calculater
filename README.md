@@ -1,0 +1,1 @@
+# test_calculater\n\nA simple Python calculator.\n\n## Features:\n- Basic arithmetic operations (add, subtract, multiply, divide)\n- Interactive command-line interface\n\n## Usage:\n1. Clone the repository: `git clone https://github.com/your-username/test_calculater.git`\n2. Run the calculator: `python calculator.py`\n\n## Installation:\n- Python 3.x\n\n## License:\nMIT License
